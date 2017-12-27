@@ -12,7 +12,7 @@ POLOLO
 
 ## Purpose
 
-Sample website with plenty of files for demos HAHA
+Sample website with plenty of files for demos HAHAKEKEw
 
 ### Copyright
 
